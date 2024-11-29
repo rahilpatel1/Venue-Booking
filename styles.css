@@ -1,0 +1,258 @@
+.navbar-brand {
+    font-weight: bold;
+    color: #FF5722 !important;
+}
+
+.navbar-nav .nav-link {
+    font-size: 16px;
+    margin-right: 15px;
+    color: #333 !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #FF5722 !important;
+}
+
+.banner {
+    background: url('https://images.venuebookingz.com/venuebookingz-home-banner.jpg') no-repeat center center/cover;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+.banner h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.banner p {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+/* About Section Styles */
+.about-section {
+    background-color: #f9f9f9;
+}
+
+.about-section h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.about-section p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #666;
+}
+
+.stat-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.stat-number {
+    font-size: 1.75rem;
+    font-weight: bold;
+    color: #FF5722;
+}
+
+/* Features Section Styles *//* Features Section Styles */
+.features-section {
+    background-color: #fff;
+}
+
+.features-section h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.features-section p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #666;
+}
+
+.feature-box {
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-color: #fdfdfd;
+}
+
+.feature-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #333;
+    margin-top: 15px;
+}
+
+.feature-box:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.bx {
+    display: block;
+}
+
+/* Venues Section Styles */
+.venues-section h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.venue-card {
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.venue-card img {
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+    width: 100%;
+    height: auto;
+}
+
+.venue-card p {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #555;
+    margin-top: 10px;
+}
+
+.venue-card:hover img {
+    transform: scale(1.05);
+}
+
+.venue-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Brands Section Styles */
+.brands-section h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.brands-section img {
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    filter: grayscale(100%); 
+}
+
+.brands-section img:hover {
+    transform: scale(1.1);
+    filter: grayscale(0); 
+}
+
+/* Footer Section Styles */
+.footer {
+    background-color: #222;
+    color: #ccc;
+}
+
+.footer h5 {
+    font-size: 1.25rem;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.footer .social-icons i {
+    font-size: 1.5rem;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.footer .social-icons i:hover {
+    transform: scale(1.2);
+    color: #FF5722;
+}
+
+.footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+.footer hr {
+    border-top: 1px solid #444;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #ccc;
+    transition: color 0.3s ease;
+}
+
+.footer a:hover {
+    color: #FF5722;
+}
+
+.social-icons {
+    gap: 15px;
+}
+
+.footer .row.justify-content-center {
+    gap: 20px; 
+}
+
+
+.header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    margin: 20px auto;
+    max-width: 1200px;
+}
+
+.sidebar {
+    background-color: #f1f1f1;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 15px;
+    text-align: left;
+}
+
+* Venue Detail Styling */
+img {
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.list-group-item {
+    border: none;
+    padding: 10px;
+}
+
+.bg-light {
+    background-color: #f8f9fa !important;
+}

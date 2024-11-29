@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "name": "West Fort Hotel",
+      "location": "Rajajinagar, Bangalore",
+      "price": 500,
+      "rating": 4.3,
+      "image": "https://images.venuebookingz.com/15847-1715322906-wm-pai-vista-kr-road-1.jpg",
+      "details": "West Fort Hotel offers luxurious amenities and spacious halls for events.",
+      "highlights": {
+        "foodType": "Only Veg",
+        "rooms": 10,
+        "capacity": 1000,
+        "parking": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Hotel Royal Orchid",
+      "location": "Indiranagar, Bangalore",
+      "price": 2000,
+      "rating": 4.6,
+      "image": "https://images.venuebookingz.com/16676-1427292642-grand-krishna-banashankari1.jpg",
+      "details": "Hotel Royal Orchid is known for its excellent service and modern facilities.",
+      "highlights": {
+        "foodType": "Veg & Non-Veg",
+        "rooms": 50,
+        "capacity": 800,
+        "parking": 40
+      }
+    },
+    {
+      "id": 3,
+      "name": "Hotel Royal Orchid Central",
+      "location": "Ulsoor, Bangalore",
+      "price": 1150,
+      "rating": 4.5,
+      "image": "https://images.venuebookingz.com/17742-1714716026-wm-west-fort-banquet-hall-15.jpg",
+      "details": "Located in Ulsoor, this venue is perfect for mid-sized events.",
+      "highlights": {
+        "foodType": "Only Veg",
+        "rooms": 30,
+        "capacity": 500,
+        "parking": 30
+      }
+    },
+    {
+      "id": 4,
+      "name": "Sterlings Mac Hotel",
+      "location": "Indiranagar, Bangalore",
+      "price": 2500,
+      "rating": 4.7,
+      "image": "https://images.venuebookingz.com/14068-1658840518-wm-grand-ball-room-sterling-mac-hotel-bangalore.jpg",
+      "details": "A premium venue offering exceptional service and grand halls.",
+      "highlights": {
+        "foodType": "Veg & Non-Veg",
+        "rooms": 40,
+        "capacity": 700,
+        "parking": 50
+      }
+    },
+    {
+      "id": 5,
+      "name": "Augusta Club",
+      "location": "JP Nagar, Bangalore",
+      "price": 550,
+      "rating": 4.1,
+      "image": "https://images.venuebookingz.com/17419-1674112217-wm-august-club-jp-nagar-4.jpg",
+      "details": "A great venue for small events with beautiful outdoor seating options.",
+      "highlights": {
+        "foodType": "Only Veg",
+        "rooms": 15,
+        "capacity": 300,
+        "parking": 20
+      }
+    },
+    {
+      "id": 6,
+      "name": "Hotel Gold Finch",
+      "location": "Race Course Road, Bangalore",
+      "price": 1000,
+      "rating": 4.2,
+      "image": "https://images.venuebookingz.com/14067-1710583835-wm-gold-finch-banquet-hall-mangalore-1.jpg",
+      "details": "Located in Race Course Road, this venue offers excellent facilities.",
+      "highlights": {
+        "foodType": "Veg & Non-Veg",
+        "rooms": 25,
+        "capacity": 600,
+        "parking": 30
+      }
+    },
+    {
+      "id": 7,
+      "name": "Aarambha",
+      "location": "Yelahanka, Bangalore",
+      "price": 800,
+      "rating": 4.4,
+      "image": "https://images.venuebookingz.com/23020-1711975429-wm-aaramba_(30).jpg",
+      "details": "A beautiful venue in Yelahanka, perfect for weddings and receptions.",
+      "highlights": {
+        "foodType": "Only Veg",
+        "rooms": 20,
+        "capacity": 500,
+        "parking": 25
+      }
+    },
+    {
+      "id": 8,
+      "name": "Farmhouse Collective",
+      "location": "Old Madras Road, Bangalore",
+      "price": 850,
+      "rating": 4.5,
+      "image": "https://images.venuebookingz.com/27021-1687434303-wm-farmhouse-social-bangalore-7.jpg",
+      "details": "Farmhouse Collective offers a unique and charming venue experience.",
+      "highlights": {
+        "foodType": "Veg & Non-Veg",
+        "rooms": 20,
+        "capacity": 400,
+        "parking": 30
+      }
+    },
+    {
+      "id": 9,
+      "name": "Halcyon Residences",
+      "location": "Koramangala, Bangalore",
+      "price": 650,
+      "rating": 4.3,
+      "image": "https://images.venuebookingz.com/17226-1658560977-wm-halcyon-koramnagala-banquet-hall-6.jpeg",
+      "details": "Located in Koramangala, Halcyon Residences is perfect for intimate events.",
+      "highlights": {
+        "foodType": "Veg & Non-Veg",
+        "rooms": 15,
+        "capacity": 350,
+        "parking": 20
+      }  
+    },
+    {
+        "id": 10,
+        "name": "Hotel Radha Hometel",
+        "location": "Whitefield, Bangalore",
+        "price": 950,
+        "rating": 4.0,
+        "image": "https://images.venuebookingz.com/17488-1456472546-wm-hotel-grand-magrat-7.jpg",
+        "details": "Hotel Radha Hometel offers great facilities and is ideal for mid-size gatherings.",
+        "highlights": {
+          "foodType": "Veg & Non-Veg",
+          "rooms": 31,
+          "capacity": 2500,
+          "parking": 60
+        }
+    }
+  ]
+  
